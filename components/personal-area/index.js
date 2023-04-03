@@ -1,0 +1,7 @@
+export {default as PersonalAreaInfo} from './personal-area-info/personal-area-info'
+export { default as PersonalAreaNav} from './personal-area-nav/personal-area-nav'
+export {default as BuyPolis} from './personal-buy/personal-buy'
+export {default as PersonalUdates} from './polic-updates/pesonal-updates'
+export {default as UserData} from './user-data/user-data'
+export {default as Settings} from './personal-settings/pesronal-settings'
+export {default as MyPolic} from './my-polic/my-polic'

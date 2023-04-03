@@ -1,0 +1,1 @@
+export {default as WnatKnowS} from './want-to-know-sinle'
